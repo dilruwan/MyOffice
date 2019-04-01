@@ -1,0 +1,15 @@
+.page-header {
+  margin: 10px 0 10px 0;
+  .page-title {
+    font-size: 20px;
+    color: #a1a2bb;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+  }
+}
+
+.page-view {
+  .content-list:hover {
+    cursor: pointer;
+  }
+}
